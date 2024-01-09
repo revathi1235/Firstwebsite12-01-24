@@ -1,0 +1,42 @@
+.Signup{
+    background-image:linear-gradient(rgb(139, 0, 134),darkblue);
+    height: 520px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    margin-left: 450px; 
+    border-radius: 20px;
+    margin-bottom: 30px;
+    box-shadow: 5px 3px 4px 7px;
+  }
+  input{
+    background-color: antiquewhite;
+  }
+  .popup{
+    color: antiquewhite;
+    font-size: 2rem;
+  }
+  button{
+    margin-right: 50px;
+  }
+  h1{
+    color: rgb(0, 255, 102);
+    margin-top: 1px;
+    margin-left: 20px;
+    /* margin-bottom: 150px; */
+  }
+  h2{
+    color: aqua;
+    margin-bottom: 0px;
+  }
+  .em{
+    color: rgb(43, 205, 226);
+  }
+ .s{
+    color: #fff;
+ }
+ .p{
+  font-size: 2rem;
+ }

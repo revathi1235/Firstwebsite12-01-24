@@ -1,0 +1,144 @@
+ .f{
+    background-color: #333;
+    height: 400px;
+    width: 1350px;
+    padding: 30px 30px;
+    color: #fff;
+    display: flex;
+    list-style: none;
+     margin-top: 300px; 
+  }
+  .head{
+    margin-left: 20px;
+     margin-top: 50px; 
+   }
+  .two{
+    font-size: 16px;
+    color: white;
+    margin-top: 10px;
+  }
+  .one{
+    margin-left: 5px;
+    color: white;
+  }
+  .col-2{
+  margin-left: 70px;
+ }
+ .list{
+  list-style: none;
+  padding: 10px; 
+  } 
+  .con{
+    color: white;
+  }
+  .head{
+    margin-left: 50px;
+  }
+  .e{
+  border-radius: 10px;
+  color: rgb(239, 245, 239);
+  background-color: green;
+ }
+ .n{
+  border-radius: 10px;
+ }
+ .form input{
+  width: 200px;
+ }
+.col-3{
+  margin-left:200px ;
+   margin-top: 50px;  
+ }
+ .bu{
+  margin-left: 0px;
+ }
+ 
+ .col-4 h2{
+  margin-right: 200px;
+ 
+ }
+ .col-4 input{
+  width: 150px;
+ } 
+.con{
+  font-size: 2.5rem;
+}
+.share{
+  border-radius: 10px ;
+}
+.bu{
+  border-radius: 10px;
+  background-color: green;
+  color: #fff;
+}
+.col-4{
+  margin-top: 50px; 
+ margin-left: 15px; 
+ }    
+
+ .col-3{
+  margin-left: 100px;
+ }
+ /* .main{
+  position: relative;
+  height: 100%;
+  width: 100%;
+  margin-top: 250px;
+  background-color: rgb(228, 20, 20);
+ }
+ .first{
+  position: absolute;
+  height: 100px;
+  width: 30%;
+  padding: 3px;
+  background-color: red;
+ }
+ .second{
+  position: absolute;
+  height: 100px;
+  width: 30%;background-color: red;
+  padding: 3px;
+ }
+ .third{
+  position: absolute;
+  height: 100px;
+  width: 30%;
+  background-color: red;
+  padding: 3px;
+ } */
+/* 
+ .container {
+  background-color: #333;
+  color: #fff;
+ 
+  margin: 0;
+  padding: 20px 0; 
+   margin-top: 150px;
+  text-align: center;
+  max-width: 1500px;
+}  */
+/* .form input{
+  width: 200px;
+  margin-left: 60px;
+}
+.right{
+position: absolute;
+width: 30%;
+height: 100%;
+}
+.second{
+  margin-right: 600px;
+  margin-bottom: 20px;
+}
+.form button:hover{
+  background-color: blue;
+}
+.one{
+  color: #fff;
+}
+.main{
+  display: flex;
+  position: relative;
+  height: 100%;
+  width: 100%;
+}  */

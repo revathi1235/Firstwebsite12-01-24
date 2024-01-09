@@ -1,0 +1,105 @@
+/* .background-image{
+    height: 500px;
+    width: 1400px;
+    width: 1350px;
+    display: flex;   
+}
+.text {
+    position: absolute;
+   width: 1800px;
+   height: 100%;
+   background-repeat: no-repeat;
+   color: rgb(8, 6, 8);
+    font-weight: bold;
+  }
+  .input{
+    margin-left: 1000px;
+  }
+ input{
+  border: 2px solid black;
+ }
+  .red{
+  color: rgb(236, 240, 237);
+  font-size: 3.8rem;
+  margin-left: 870px;
+  font-family: cursive;
+  color: pink;
+  -webkit-text-stroke: 1px pink ; 
+  background:url("https://media.giphy.com/media/hOWdRsPVHmGrK/giphy.gif");
+  -webkit-background-clip: text;
+ }
+ 
+ .blue{
+  margin-top: 80px;
+   color: rgb(6, 6, 7); 
+   font-size: 4rem;
+  margin-left: 950px;
+  font-family: cursive;
+  color:pink;
+  -webkit-text-stroke: 1px pink ; 
+  background:url("https://media.giphy.com/media/hOWdRsPVHmGrK/giphy.gif");
+  -webkit-background-clip: text;
+ }
+  .p{
+    margin: left;
+  }
+  .center-aligned {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }  
+  .background-image{
+height: 100px;
+  }
+  .blue{
+    margin-top: 80px;
+     color: rgb(6, 6, 7); 
+     font-size: 4rem;
+    margin-left: 950px;
+    font-family: cursive;
+    color:pink;
+    -webkit-text-stroke: 1px pink ; 
+    background:url("https://media.giphy.com/media/hOWdRsPVHmGrK/giphy.gif");
+    -webkit-background-clip: text;
+   }
+   .red{
+    color: rgb(236, 240, 237);
+    font-size: 3.8rem;
+    margin-left: 870px;
+    font-family: cursive;
+    color: pink;
+    -webkit-text-stroke: 1px pink ; 
+    background:url("https://media.giphy.com/media/hOWdRsPVHmGrK/giphy.gif");
+    -webkit-background-clip: text;
+   }
+   .text {
+    position: absolute;
+   width: 1800px;
+   height: 100%;
+   background-repeat: no-repeat;
+   color: rgb(8, 6, 8);
+    font-weight: bold;
+  }  */
+ /* .background-container {
+    background-image: url('https://i.pinimg.com/originals/c1/5c/07/c15c0726cac25d7ab24075c7b3621f71.gif'); 
+   background-size: cover; 
+   background-position: center; 
+   height: 558px; 
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   } 
+  .heading-text {
+    font-family: cursive;
+    text-align: center;
+    -webkit-text-stroke: 1px  pink ; 
+    background:url("https://media.giphy.com/media/hOWdRsPVHmGrK/giphy.gif");
+    -webkit-background-clip: text;
+    color:white;
+   font-size: 3rem;
+   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); 
+   margin-bottom: 400px;
+   }   */
+   
