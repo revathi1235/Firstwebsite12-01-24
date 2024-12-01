@@ -18,10 +18,11 @@ function Login() {
     setShowPopup(true);
   };  
   return (
+   
     <div className='mains'>
          <div className='login'>
         <div className='log'>
-        <h1 className='l'><u>LOGIN</u></h1>
+        <h1 className='l'>LOGIN</h1>
         <br />
         {/* <h2 className='e'>Email</h2> */}
         <input type="email" placeholder='enter email' />
@@ -39,6 +40,7 @@ function Login() {
 
     </div>
     </div>
+   
   )
 }
 

@@ -2,8 +2,14 @@
 import  travel4 from '../images/travel4.jpg'
 import './Content1.css'
 import Carousel from 'react-bootstrap/Carousel';
+
+import Content2 from '../components/Content2';
+import Content3 from '../components/Content3';
+ import Content4 from '../components/Content4';
+import Content5 from '../components/Content5';
 function Content1(){
   return(
+    <>
 <Carousel data-bs-theme="light">
 
       <Carousel.Item>
@@ -51,6 +57,11 @@ function Content1(){
         />
         </Carousel.Item>
     </Carousel>
+    <Content5/>   
+      <Content3/>
+         <Content2/> 
+          <Content4/>  
+    </>
   );
 }
 export default Content1
